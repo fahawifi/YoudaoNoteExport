@@ -16,3 +16,6 @@ python main.py 用户名 密码 ./notes docx
 
 
 在Ubuntu 16.04 + Python 2.7的环境中测试通过。
+
+#如果是qq等第三方帐号登录
+点击头像可以看到帐号qq00AB8B749CBCB753FD20C97E6C82BD87
